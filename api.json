@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "text":"Sərfəli qiymətə ev heyvanları üçün yem axtarırsınız",
+        "button":"Daxil ol",
+        "img":"./images/dog.png"
+    },
+    {
+        "id":2,
+        "text":"Yüksək keyfiyyət ev heyvanları üçün yem axtarırsınız",
+        "button":"Daxil ol",
+        "img":"./images/cat.png"
+    }
+  
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "img":"./images/cardcat.png",
+        "text":"Pişik evi",
+        "price":42
+    },
+    {
+        "id":2,
+        "img":"./images/carddog.png",
+        "text":"İt üçün köynək",
+        "price":60
+    },
+    {
+        "id":3,
+        "img":"./images/cardyemek.png",
+        "text":"Yemək qabları",
+        "price":35
+    },
+    {
+        "id":4,
+        "img":"./images/cardtasma.png",
+        "text":"Müxtəlif tasmalar",
+        "price":22
+    }
+  
+  
+]

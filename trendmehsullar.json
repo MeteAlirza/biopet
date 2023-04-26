@@ -1,0 +1,58 @@
+[
+    {
+        "id":5,
+        "img":"./images3/img1.jpg",
+        "text":"Pişiklər üçün quru və nəm lasos",
+        "price":45,
+        "dataName":"enCoxSatilan"
+    },
+    {
+        "id":6,
+        "img":"./images3/img2.jpg",
+        "text":"Quşlar üçün çərəz",
+        "price":9.90,
+        "dataName":"yeniMehsul"
+    },
+    {
+        "id":7,
+        "img":"./images3/img3.jpg",
+        "text":"Balıqlar üçün quru toyuq",
+        "price":19,
+        "dataName":"enCoxSatilan"
+    },
+    {
+        "id":8,
+        "img":"./images3/img4.jpg",
+        "text":"İtlər üçün sümüklər",
+        "price":33,
+        "dataName":"yeniMehsul"
+    },
+    {
+        "id":9,
+        "img":"./images3/img5.jpg",
+        "text":"İtlər üçün quru yemək və ət",
+        "price":40,
+        "dataName":"enCoxSatilan"
+    },
+    {
+        "id":10,
+        "img":"./images3/img6.jpg",
+        "text":"Pişiklər üçün çubuq",
+        "price":14,
+        "dataName":"yeniMehsul"
+    },
+    {
+        "id":11,
+        "img":"./images3/img7.jpg",
+        "text":"Dovşanlar üçün dəri ət",
+        "price":10,
+        "dataName":"secilenMehsul"
+    },
+    {
+        "id":12,
+        "img":"./images3/img8.jpg",
+        "text":"Balıqlar üçün quru çörək",
+        "price":25,
+        "dataName":"secilenMehsul"
+    }
+]

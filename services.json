@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "icon":"./images4/img1.png",
+        "text":"Heyvanların catdırılması"
+    },
+    {
+        "id":2,
+        "icon":"./images4/img2.png",
+        "text":"Baytarlıq xidməti"
+    },
+    {
+        "id":3,
+        "icon":"./images4/img3.png",
+        "text":"Peyvənd baxımı"
+    },
+    {
+        "id":4,
+        "icon":"./images4/img4.png",
+        "text":"Sağlam qidalar"
+    }
+]
